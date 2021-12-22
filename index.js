@@ -13,3 +13,6 @@ const threeSum = (arr, target) => {
 };
 
 console.log(threeSum([4, 6, 8, 2], 14));
+
+//time complexity: O(n^2)
+//triple for loop solution is O(n^3)
